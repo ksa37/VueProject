@@ -61,6 +61,9 @@
 .site-footer{
   bottom:0;
   background: rgb(210, 219, 251);
+  position: fixed;
+  width: 100%;
+
 
 }
 </style>
